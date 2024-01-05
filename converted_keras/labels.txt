@@ -1,0 +1,5 @@
+0 Square
+1 Round
+2 Oval
+3 Oblong
+4 Heart
