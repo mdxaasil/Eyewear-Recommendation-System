@@ -12,8 +12,8 @@ This repository contains the code and documentation for an Eyewear Recommendatio
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/eyewear-recommendation.git
-   cd eyewear-recommendation
+   git clone https://github.com/mdxaasil/Eyewear-Recommendation-System/
+   cd Eyewear-Recommendation-System
    ```
 
 2. Install dependencies:
